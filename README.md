@@ -52,6 +52,8 @@ We’ve tried to gather a collection of good books and papers about good practic
 ### Videos & Talks
 A list of talks about [Stylish Academic Writing](https://www.youtube.com/watch?v=jje-6SD1B64&list=PL2SOU6wwxB0tY33JccQVyybWTL0RwjYoJ) promoted by Harvard University.
 
+Steven Pinker's talk [Linguistics, Style and Writing in the 21st Century](https://www.youtube.com/watch?v=OV5J6BfToSw) at The Royal Institution.
+
 ## Tools
 ### Writing
 [Grammarly](https://www.grammarly.com/) : A grammar and spell-checker in steroids.
