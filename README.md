@@ -25,7 +25,7 @@ We’ve tried to gather a collection of good books and papers about good practic
 #### Books
   [The Writer’s Diet: A Guide to Fit Prose](https://www.amazon.es/dp/022635198X/ref=cm_sw_em_r_mt_dp_uAhKFbWPK1BXT) *by [Helen Sword](https://www.helensword.com/)* : A book about sentence diagnostics that ranks your writing as Lean, Fit, Flabby or Fat. Provides several concrete examples and "workouts" to improve your writing.
 
-  [Stylish Academic Writing](tps://www.amazon.es/dp/0674064488/ref=cm_sw_em_r_mt_dp_XEhKFbVFGN7VS) *by [Helen Sword](https://www.helensword.com/)* : A book for scholars and students that challenges old conventions about what it means to write well, *i.e.* stylishly, in academia.
+  [Stylish Academic Writing](https://www.amazon.es/dp/0674064488/ref=cm_sw_em_r_mt_dp_XEhKFbVFGN7VS) *by [Helen Sword](https://www.helensword.com/)* : A book for scholars and students that challenges old conventions about what it means to write well, *i.e.* stylishly, in academia.
 
   [The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century](https://www.amazon.es/dp/0670025852/ref=cm_sw_em_r_mt_dp_QGhKFbZ4S1WRM) *by [Steven Pinker](https://stevenpinker.com/)* : A book that tries to identify what makes some literature so engaging while other is barely readable.
 
@@ -47,3 +47,6 @@ We’ve tried to gather a collection of good books and papers about good practic
 
 
 ## Other awesome resources
+[Awesome PhD](https://github.com/alirsamar/awesome-phd) : A curated list of advice, tips and resources for PhD students.
+
+[Awesome Research Tools](https://github.com/emptymalei/awesome-research) : A list of useful tools for academic/research work.
