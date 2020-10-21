@@ -2,10 +2,24 @@
 This is a work in progress by the members of the WritingLeague@Univeristy of Aveiro
 
 ## Table of Contents
-- [Books]
-## Books
+<!-- MarkdownTOC depth=4 -->
+- [Learning](#learning)
+  - [Books](#books)
+
+<!-- /MarkdownTOC -->
+
+## Learning
+### Books
+### Courses
+### Blogs & Webpages
+### Videos & Talks
+
+
 ## Tools
 ### Writing
 ### Reading
 ### Reference Managers
-### Productivity
+### Project Management
+
+
+## Miscellaneous
