@@ -36,8 +36,10 @@ We’ve tried to gather a collection of good books and papers about good practic
 
 ### Courses 
 ### Blogs & Webpages
-### Videos & Talks
+[The Thesis Whisperer](https://thesiswhisperer.com/) : A blog dedicated to the topic of doing a PhD and finishing your thesis.
 
+### Videos & Talks
+A list of talks about [Stylish Academic Writing](https://www.youtube.com/watch?v=jje-6SD1B64&list=PL2SOU6wwxB0tY33JccQVyybWTL0RwjYoJ) promoted by Harvard University.
 
 ## Tools
 ### Writing
