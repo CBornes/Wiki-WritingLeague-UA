@@ -1,5 +1,5 @@
 # WritingLeague Resources
-This is a work in progress by the members of the WritingLeague@Univeristy of Aveiro
+This is a work in progress by the members of the WritingLeague@University of Aveiro
 
 ## Table of Contents
 <!-- MarkdownTOC depth=4 -->
@@ -43,6 +43,7 @@ A list of talks about [Stylish Academic Writing](https://www.youtube.com/watch?v
 
 ## Tools
 ### Writing
+[Grammarly](https://www.grammarly.com/) : A grammar and spell-checker in steroids.
 ### Reading
 ### Reference Managers
 ### Project Management
