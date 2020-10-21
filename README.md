@@ -6,7 +6,7 @@ This is a work in progress by the members of the WritingLeague@Univeristy of Ave
 - [Learning](#learning)
   - [Books](#books)
   - [Courses](#courses)
-  - [Blogs & Webpages](#blogs-&-webpages)
+  - [Blogs & Webpages](#blogs--webpages)
   
 
 <!-- /MarkdownTOC -->
