@@ -4,7 +4,7 @@ This is a work in progress by the members of the WritingLeague@Univeristy of Ave
 ## Table of Contents
 <!-- MarkdownTOC depth=4 -->
 - [Learning](#learning)
-  - [Books](#books)
+  - [Books]
 
 <!-- /MarkdownTOC -->
 
