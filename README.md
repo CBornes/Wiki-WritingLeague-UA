@@ -44,6 +44,7 @@ A list of talks about [Stylish Academic Writing](https://www.youtube.com/watch?v
 ## Tools
 ### Writing
 [Grammarly](https://www.grammarly.com/) : A grammar and spell-checker in steroids.
+
 [Write or Die](https://writeordie.com/) & [Squible - The Most Dangerous Writing App](https://www.squibler.io/dangerous-writing-prompt-app) : USE WITH CAUTION ⚠ These apps delete your written test when you stop writting. 
 
 ### Reading
