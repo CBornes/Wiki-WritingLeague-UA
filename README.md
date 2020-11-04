@@ -35,9 +35,9 @@ We’ve tried to gather a collection of good books and papers about good practic
   
 
 #### Papers
-[Writing a Paper](http://www.tulane.edu/~lamp/whiteside.pdf) *by George Whitesides*
+  [Writing a Paper](http://www.tulane.edu/~lamp/whiteside.pdf) *by George Whitesides*
 
-[The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate healthcare interventions: explanation and elaboration](https://www.bmj.com/content/339/bmj.b2700) *by Liberati et al.*
+  [The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate healthcare interventions: explanation and elaboration](https://www.bmj.com/content/339/bmj.b2700) *by Liberati et al.*
 
 
 #### Bonus Books
@@ -45,29 +45,37 @@ We’ve tried to gather a collection of good books and papers about good practic
 
 ### Courses 
 ### Blogs & Webpages
-[The Thesis Whisperer](https://thesiswhisperer.com/) : A blog dedicated to the topic of doing a PhD and finishing your thesis.
+  [The Thesis Whisperer](https://thesiswhisperer.com/) : A blog dedicated to the topic of doing a PhD and finishing your thesis.
 
-[Writing Scientist](https://writingscientist.com/) : A webpage providing several blog posts about writing and some courses.
+  [Writing Scientist](https://writingscientist.com/) : A webpage providing several blog posts about writing and some courses.
 
 ### Videos & Talks
-A list of talks about [Stylish Academic Writing](https://www.youtube.com/watch?v=jje-6SD1B64&list=PL2SOU6wwxB0tY33JccQVyybWTL0RwjYoJ) promoted by Harvard University.
+  Helen Sword's webinar [Stylish Academic Writing: Why Here, Why Now?](https://youtu.be/Qud0BrwbaII) organized by the WritingLeague@UA.
 
-Steven Pinker's talk [Linguistics, Style and Writing in the 21st Century](https://www.youtube.com/watch?v=OV5J6BfToSw) at The Royal Institution.
+  A list of talks about [Stylish Academic Writing](https://www.youtube.com/watch?v=jje-6SD1B64&list=PL2SOU6wwxB0tY33JccQVyybWTL0RwjYoJ) promoted by Harvard University.
+
+  Steven Pinker's talk [Linguistics, Style and Writing in the 21st Century](https://www.youtube.com/watch?v=OV5J6BfToSw) at The Royal Institution.
 
 ## Tools
 ### Writing
-[Grammarly](https://www.grammarly.com/) : A grammar and spell-checker in steroids.
+  [Grammarly](https://www.grammarly.com/) : A grammar and spell-checker in steroids.
 
-[The Writer's Diet](https://writersdiet.com/) : A free online tool providing sentence diagnostics that ranks your writing as Lean, Fit, Flabby or Fat.
+  [The Writer's Diet](https://writersdiet.com/) : A free online tool providing sentence diagnostics that ranks your writing as Lean, Fit, Flabby or Fat.
 
-[Write or Die](https://writeordie.com/) & [Squible - The Most Dangerous Writing App](https://www.squibler.io/dangerous-writing-prompt-app) : USE WITH CAUTION ⚠ These apps delete your written test when you stop writting. 
+  [Write or Die](https://writeordie.com/) & [Squible - The Most Dangerous Writing App](https://www.squibler.io/dangerous-writing-prompt-app) : USE WITH CAUTION ⚠ These apps delete your written test when you stop writting. 
 
 ### Reading
 ### Reference Managers
+  [Mendeley](https://www.mendeley.com/)
+
+  [Zotero](https://www.zotero.org/)
+
 ### Project Management
 
 
 ## Other awesome resources
-[Awesome PhD](https://github.com/alirsamar/awesome-phd) : A curated list of advice, tips and resources for PhD students.
+  [Awesome PhD](https://github.com/alirsamar/awesome-phd) : A curated list of advice, tips and resources for PhD students.
 
-[Awesome Research Tools](https://github.com/emptymalei/awesome-research) : A list of useful tools for academic/research work.
+  [Awesome Research Tools](https://github.com/emptymalei/awesome-research) : A list of useful tools for academic/research work.
+
+  [How to Manage Information](https://www.ua.pt/pt/sbidm/gerir-informacao) by University of Aveiro
