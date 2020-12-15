@@ -78,4 +78,6 @@ We’ve tried to gather a collection of good books and papers about good practic
 
   [Awesome Research Tools](https://github.com/emptymalei/awesome-research) : A list of useful tools for academic/research work.
 
-  [How to Manage Information](https://www.ua.pt/pt/sbidm/gerir-informacao) by University of Aveiro
+  [How to Manage Information](https://www.ua.pt/pt/sbidm/gerir-informacao) by University of Aveiro.
+  
+  [Note-Taking Techniques](http://www.raulpacheco.org/resources/note-taking-techniques/) by Dr. Raul Pacheco-Vega.
