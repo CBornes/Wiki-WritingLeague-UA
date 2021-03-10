@@ -49,12 +49,14 @@ We’ve tried to gather a collection of good books and papers about good practic
 
   [Writing Scientist](https://writingscientist.com/) : A webpage providing several blog posts about writing and some courses.
 
-### Videos & Talks
+### Videos, Talks & Webinars
   Helen Sword's webinar [Stylish Academic Writing: Why Here, Why Now?](https://youtu.be/Qud0BrwbaII) organized by the WritingLeague@UA.
 
   A list of talks about [Stylish Academic Writing](https://www.youtube.com/watch?v=jje-6SD1B64&list=PL2SOU6wwxB0tY33JccQVyybWTL0RwjYoJ) promoted by Harvard University.
 
   Steven Pinker's talk [Linguistics, Style and Writing in the 21st Century](https://www.youtube.com/watch?v=OV5J6BfToSw) at The Royal Institution.
+  
+  Charlesworth Author Services [How to write your article for publication](https://www.cwauthors.com/article/webinar-schedule-2020).
 
 ## Tools
 ### Writing
